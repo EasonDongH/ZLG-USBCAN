@@ -1,0 +1,32 @@
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.exe
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.pdb
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+E:\物联网，资料\API Samples修改\API Samples\PCI50x0U_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.exe
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.pdb
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\物联网，资料\API Samples修改\API Samples\USBCANxEU_V1.03\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.exe
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.pdb
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\dongxuanfei\Desktop\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.exe
+F:\code\public\产品目录\CAN产品\PC-CAN接口卡\ZLGCAN接口库\Demo\USBCANxEU_V1.04\c#示例(vs2005)\c#示例(vs2005)\WindowsApplication1\WindowsApplication1\bin\debug\WindowsApplication1.pdb
